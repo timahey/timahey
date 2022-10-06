@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @t1mahey! A GitHub user! 👋
+- 👋 Hello, I'm @timahey! A GitHub user! 👋
 - 😳 Also i'm not a imposr 😳
 
 🙃 By the way, here's a joke for you:
