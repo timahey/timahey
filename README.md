@@ -1,7 +1,8 @@
 - 👋 Hello, I'm @t1mahey! A GitHub user! 👋
-- 😳 Also i'm not a imposrt 😳
+- 😳 Also i'm not a imposr 😳
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!---
-timahey/timahey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+timahey/timahey это ✨ специальный ✨ репозеторий, потому это `README.md` (этот файл) появляется на вашей странице GitHub.
+Ты можешь нажать на ссылку Посмотреть профиль, чтобы посмотреть на ваши изменения.
 --->
